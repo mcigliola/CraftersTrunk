@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\app",
+    "\\app\\components",
+    "\\app\\navigation",
+    "\\app\\screens",
+    "\\app\\utils",
+    "\\assets"
+  ],
+  "SelectedNode": "\\app\\navigation\\rootStackParamList.ts",
+  "PreviewInSolutionExplorer": false
+}
