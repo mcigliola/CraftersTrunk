@@ -1,50 +1,45 @@
-# Welcome to your Expo app 👋
+# Crafter's Trunk 🧶🐘
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+Crafter’s Trunk is a mobile app built with React Native that allows users to search and explore knitting and crochet patterns using the Ravelry API. Designed with makers in mind, the app provides an easy, image-forward browsing experience and customizable views to spark inspiration and keep projects organized.
 
-## Get started
+## Features
 
-1. Install dependencies
+- **Pattern Search** – Search for patterns on Ravelry with live data
+- **Visual Grid View** – Image-focused grid for easy scrolling
+- **Detail Pages** – Pattern info, tags, suggested yarns, and more
+- **Favorites & Action Menu** – Mark favorites or explore external pattern sources
+- **Responsive UI** – Built with accessibility and mobile layout in mind
+- **OAuth 2.0 Authentication** – Secure login via Ravelry
 
-   ```bash
-   npm install
-   ```
+## In Progress
 
-2. Start the app
+This app is currently in active development. Upcoming features may include:
+- Account integration (library, queue)
+- Filter drawer for advanced search
+- Save/share functionality
+- Multi-platform yarn & pattern browsing
 
-   ```bash
-    npx expo start
-   ```
+## Tech Stack
 
-In the output, you'll find options to open the app in a
+- **React Native** (with Expo)
+- **TypeScript**
+- **Ravelry API**
+- **SecureStore** for local token management
+- **React Navigation**
+- **Native Base & Vector Icons**
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+## Screenshots
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+> _Coming soon!_
 
-## Get a fresh project
+## About the Developer
 
-When you're ready, run:
+Hi there! 👋 I’m a career-changer with a background in education and a passion for building intuitive, meaningful software. This app is both a technical learning project and a practical tool for fellow makers.
 
-```bash
-npm run reset-project
-```
+## 📄 License
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+This project is for educational and portfolio use. Pattern content belongs to the original creators and Ravelry.
 
-## Learn more
+---
 
-To learn more about developing your project with Expo, look at the following resources:
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
