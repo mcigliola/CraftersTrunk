@@ -1,6 +1,6 @@
-# Crafter's Trunk 🧶🐘
+# Crafter's Trunk 
 
-Crafter’s Trunk is a mobile app built with React Native that allows users to search and explore knitting and crochet patterns using the Ravelry API. Designed with makers in mind, the app provides an easy, image-forward browsing experience and customizable views to spark inspiration and keep projects organized.
+Crafter’s Trunk is a mobile app built with React Native that allows users to search and explore knitting and crochet patterns using the Ravelry API. 
 
 ## Features
 
